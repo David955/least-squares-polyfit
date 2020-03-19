@@ -1,5 +1,7 @@
 %% invalid input handling
 
+wrong_input = 0;
+
        % degree of polynomial can not be bigger than # of points - 1
 if     k > N - 1
         fprintf(['error: For a set of N points, the maximum order\n' ...
