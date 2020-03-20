@@ -1,4 +1,4 @@
-# Fitting of a Polynomial using Least Squares Method
+# Fitting of a polynomial using least-squares method
 
 Approximating a dataset using a polynomial equation is useful when conducting engineering 
 calculations as it allows results to be quickly updated when inputs change without the need for manual lookup of the dataset.
