@@ -9,6 +9,7 @@ if     k > N - 1
         wrong_input = 1;
     
        % polynomial has to have at least one degree 
+       
 elseif k <= 0
         fprintf('error: the polynomial degree can not be < 1');
         wrong_input = 1;
